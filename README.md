@@ -12,7 +12,7 @@ These solutions are designed to be concise, efficient, and well-documented to se
 ## Usage
 To use this repository:
 
-- Clone the repository to your local machine: git clone
+- Clone the repository to your local machine: git clone https://github.com/pasupathi0427/Leetcode-problems-solved.git
 - Navigate to the directory containing the desired solution.
 - Open the Python file corresponding to the problem you want to explore.
 - Read the solution and accompanying explanation to understand the approach.
